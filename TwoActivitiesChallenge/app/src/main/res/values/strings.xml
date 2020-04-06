@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">TwoActivitiesChallenge</string>
+    <string name="btn_text_one">Text One</string>
+    <string name="btn_text_two">Text Two</string>
+    <string name="btn_text_three">Text Three</string>
+    <string name="text_one">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non
+        finibus metus. Nullam finibus, quam quis tempor blandit, est leo ullamcorper neque, ut
+        tristique nibh mauris quis ipsum. Vivamus egestas, lorem ut interdum varius, lorem elit
+        placerat enim, vel vulputate mi metus et nunc. Pellentesque habitant morbi tristique
+        senectus et netus et malesuada fames ac turpis egestas. Proin blandit, sapien sodales
+        fermentum lobortis, libero leo congue nisi, volutpat vestibulum sapien magna nec tellus.
+        Fusce ac suscipit nibh, sed mattis turpis. Maecenas viverra ornare tellus, eget tempus
+        nibh.</string>
+    <string name="text_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec
+        pretium nunc. Integer varius metus in cursus ultricies. Quisque ut faucibus elit. Phasellus
+        bibendum nibh arcu, vel mollis purus ullamcorper non. Quisque ut sapien sit amet massa
+        finibus pellentesque. Aenean ac bibendum magna, sed commodo metus. Curabitur in egestas
+        metus, id venenatis leo. Nulla luctus eros enim, at tincidunt sapien ornare at. Etiam
+        congue malesuada tortor sit amet consequat. Proin rutrum quam augue, et pharetra risus
+        condimentum sit amet. Aenean sollicitudin sit amet diam in auctor. Aliquam ac euismod
+        metus, sed mattis mauris.\n\n
+        Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+        Etiam in convallis eros. Sed suscipit imperdiet orci ac varius. Proin dignissim volutpat
+        faucibus. Maecenas quis pellentesque velit, nec ultrices sapien. Donec suscipit turpis
+        finibus ultrices consectetur. Maecenas vestibulum lobortis orci, quis gravida ligula
+        laoreet in. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+        turpis egestas. Aenean consequat dapibus augue ac placerat.</string>
+    <string name="text_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
+        convallis nec lorem id efficitur. Sed quis est fermentum, vehicula nisi eget, fermentum
+        augue. Curabitur facilisis mi a quam rhoncus efficitur. Vivamus ac quam vel tellus euismod
+        hendrerit sit amet id nunc. Fusce congue, diam vel fermentum condimentum, quam risus
+        molestie velit, eu congue ligula purus at nulla. Duis tincidunt condimentum laoreet.
+        Integer iaculis dui sit amet elit accumsan aliquet. Nulla ut gravida diam. Vestibulum
+        bibendum lacus dignissim erat laoreet finibus.\n\n
+        Donec magna urna, pulvinar et ornare vitae, porttitor ut tellus. Aenean pulvinar eros
+        quis nulla scelerisque sagittis. Ut at suscipit enim, eget ornare elit. Fusce commodo
+        blandit nulla. Maecenas ipsum nibh, vulputate a condimentum sed, rutrum et massa. Mauris
+        ornare ante justo, quis maximus metus elementum non. Sed ut dui eget lectus iaculis mattis
+        et quis risus. Praesent id euismod tortor. Mauris tristique sapien ac velit maximus, nec
+        euismod eros egestas. Etiam mollis turpis metus, in tempor purus pellentesque quis.
+        Praesent egestas nulla vulputate condimentum porta. Nunc nisl orci, vehicula vitae neque
+        non, hendrerit tempor ante. Praesent pharetra arcu ut justo porta, vitae convallis tortor
+        sagittis. Maecenas mollis velit eget tortor mollis, eget luctus mauris hendrerit. Nulla
+        varius quam nec feugiat accumsan. Fusce fringilla ultricies dolor, et congue enim
+        consequat et.\n\n
+        Quisque auctor felis tortor, sit amet viverra est ultrices sit amet. Sed viverra volutpat
+        leo in pretium. Etiam dictum tellus nec ultricies scelerisque. Proin ullamcorper pulvinar
+        leo ac venenatis. Curabitur aliquam et ligula sit amet malesuada. Nullam dui felis,
+        pulvinar vitae tempus ac, vestibulum at lorem. Maecenas nec aliquet ligula, non cursus
+        arcu. Curabitur porta purus in egestas euismod. Quisque sed lacus a augue posuere
+        ullamcorper in vel sapien. Sed ac est et turpis faucibus tristique quis a nisi. Aliquam
+        quis orci enim. Cras dui tortor, accumsan in ultricies sed, cursus vel dolor. Integer
+        dictum dictum quam, eget commodo felis faucibus ac. Cras pretium odio nec lectus egestas
+        feugiat. Morbi hendrerit vestibulum magna, nec semper tellus. Aliquam semper venenatis
+        tellus, vel faucibus sapien congue sit amet.\n\n
+        Suspendisse porta risus ex, vitae posuere justo interdum sed. Aenean nunc elit, molestie
+        a lobortis fermentum, interdum et neque. Nullam maximus blandit justo sit amet fermentum.
+        Cras scelerisque, odio id dictum scelerisque, erat nisl semper nibh, sed faucibus nulla
+        ipsum sit amet urna. In et aliquam risus. Praesent maximus libero at gravida ullamcorper.
+        Nullam ac aliquam nisi, at volutpat ligula.\n\n
+        Vivamus maximus nisi sed odio egestas, sit amet sagittis tortor auctor. Aenean felis
+        purus, luctus sit amet purus in, porta mattis magna. Proin dapibus rutrum nisl, vitae
+        maximus diam mollis at. Curabitur quam libero, finibus ac nisi vel, luctus posuere nisl.
+        Maecenas vestibulum, neque at suscipit iaculis, tellus odio mollis arcu, in tempus metus
+        enim finibus nunc. Donec laoreet purus sem, lobortis efficitur quam tincidunt at. Mauris
+        nec congue nisl, ut sodales quam. Mauris ligula risus, elementum et hendrerit sit amet,
+        ultricies ac orci. In aliquam iaculis odio, at rhoncus nisi ultrices eget. Etiam facilisis
+        leo est, et tempor ligula vehicula in. Nam egestas ante iaculis, commodo tellus vitae,
+        vulputate metus.</string>
+</resources>

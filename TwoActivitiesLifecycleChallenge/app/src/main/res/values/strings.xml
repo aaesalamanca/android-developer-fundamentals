@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TwoActivitiesLifecycleChallenge</string>
+    <string name="add_item">Add Item</string>
+    <string name="cheese">Cheese</string>
+    <string name="rice">Rice</string>
+    <string name="apples">Apples</string>
+    <string name="milk">Milk</string>
+    <string name="bread">Bread</string>
+    <string name="beer">Beer</string>
+</resources>

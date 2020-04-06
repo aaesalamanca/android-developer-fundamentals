@@ -1,0 +1,2 @@
+rootProject.name='HelloToastChallenge2'
+include ':app'
