@@ -7,4 +7,6 @@
     <string name="milk">Milk</string>
     <string name="bread">Bread</string>
     <string name="beer">Beer</string>
+    <string name="find_shop">Find Shop</string>
+    <string name="shop">Shop</string>
 </resources>

@@ -134,4 +134,24 @@
         app:layout_constraintStart_toStartOf="@+id/tvItem8"
         app:layout_constraintTop_toBottomOf="@+id/tvItem8" />
 
+    <Button
+        android:id="@+id/btnIntentMap"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/margin20"
+        android:layout_marginRight="@dimen/margin20"
+        android:text="@string/find_shop"
+        app:layout_constraintEnd_toStartOf="@id/guideline"
+        app:layout_constraintStart_toStartOf="@id/btnAddItem"
+        app:layout_constraintTop_toBottomOf="@id/btnAddItem" />
+
+    <EditText
+        android:id="@+id/etShop"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/shop"
+        app:layout_constraintTop_toBottomOf="@id/btnAddItem"
+        app:layout_constraintStart_toEndOf="@id/guideline"
+        app:layout_constraintEnd_toEndOf="@id/btnAddItem" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
