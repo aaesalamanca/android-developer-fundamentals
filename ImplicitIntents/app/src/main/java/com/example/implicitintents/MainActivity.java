@@ -3,6 +3,7 @@ package com.example.implicitintents;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.provider.MediaStore;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
@@ -11,6 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ShareCompat;
 
 // https://codelabs.developers.google.com/codelabs/android-training-activity-with-implicit-intent/#1
+// https://codelabs.developers.google.com/codelabs/android-training-activity-with-implicit-intent/#11
 public class MainActivity extends AppCompatActivity {
 
     // Fields.
@@ -21,13 +23,12 @@ public class MainActivity extends AppCompatActivity {
     private EditText mLocationEditText;
     private EditText mShareTextEditText;
 
-    // Events.
+    // Methods.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // EditText.
         mWebsiteEditText = findViewById(R.id.website_edittext);
         mLocationEditText = findViewById(R.id.location_edittext);
         mShareTextEditText = findViewById(R.id.share_text_edittext);
@@ -68,5 +69,12 @@ public class MainActivity extends AppCompatActivity {
                 .setChooserTitle("Share this text with:")
                 .setText(txt)
                 .startChooser();
+    }
+
+    public void takePicture(View view) {
+        Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+        if (intent.resolveActivity(getPackageManager()) != null) {
+            startActivity(intent);
+        }
     }
 }
